@@ -26,7 +26,6 @@ public class PlayerController : MonoBehaviour {
     public LayerMask whatIsLadder;
     private bool isClimbing;
 
-    //character switch
 
 
 

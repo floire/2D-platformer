@@ -67,6 +67,7 @@
     <Compile Include="Assets\KillPlayer.cs" />
     <Compile Include="Assets\PlayerController.cs" />
     <Compile Include="Assets\PlayerSwitch.cs" />
+    <Compile Include="Assets\SpiritController.cs" />
     <Compile Include="Assets\VerticalPlatform.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/kaha/Documents/Major-project/2D-platformer/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
